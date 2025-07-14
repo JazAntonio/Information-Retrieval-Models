@@ -38,7 +38,7 @@ The implemented models can be evaluated using standard Information Retrieval met
 - **Precision** – Measures the proportion of retrieved documents that are relevant.
 - **Recall** – Measures the proportion of relevant documents that are retrieved.
 - **F1-score** – Harmonic mean of precision and recall.
-- **Average Precision (MAP)** – Averages the precision scores after each relevant document is retrieved.
+- **Average Precision (AP)** – Averages the precision scores after each relevant document is retrieved.
 
 These metrics help compare model effectiveness in real-world query scenarios.
 
